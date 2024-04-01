@@ -1,1 +1,1 @@
-# This is hte Repo for ITSCM 180.
+# This is the Repo for ITSCM 180.
